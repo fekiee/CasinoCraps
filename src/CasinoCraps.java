@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 /**
+*@fekiee
 *The following code simulates the Casion Craps game.
 *It is "procedural" and incomplete. Analyse it and develop
 * UML Activity diagrams to explain the flow of execution and the processes
